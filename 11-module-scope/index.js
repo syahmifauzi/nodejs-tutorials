@@ -1,0 +1,2 @@
+require('./batman');
+require('./superman');
